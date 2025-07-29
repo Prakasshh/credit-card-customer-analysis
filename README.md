@@ -9,6 +9,13 @@ This Power BI dashboard provides deep insights into credit card customer behavio
 
 ---
 
+### 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/CC%20Transaction%20Summary.png?raw=true)
+
+
+---
+
 ### 🗃️ Data Source & Tools Used
 
 * **🛢️ Data Storage**: PostgreSQL (SQL database)
@@ -48,11 +55,6 @@ This Power BI dashboard provides deep insights into credit card customer behavio
 
 ---
 
-### 📸 Dashboard Preview
-
-(https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/Screenshot%202025-07-29%20091815.png?raw=true)
-
----
 
 ### 🧠 Learnings
 
@@ -61,16 +63,4 @@ This Power BI dashboard provides deep insights into credit card customer behavio
 * Built dynamic visualizations for C-level decision making
 * Practiced DAX logic for week-based revenue tracking
 
----
-
-### 📬 Contact
-
-📧 [prakashprajapat89640@gmail.com](mailto:prakashprajapat89640@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com)
-
----
-
-Agar tu chaahe to me isme `.gif`, `.pbix` file ka link ya demo video ka section bhi daal deta hoon.
-
-Bata bhai – aur kya add/edit karna hai?
 
