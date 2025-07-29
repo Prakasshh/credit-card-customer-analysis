@@ -50,7 +50,7 @@ This Power BI dashboard provides deep insights into credit card customer behavio
 
 ### 📸 Dashboard Preview
 
-*(Insert dashboard screenshots here)*
+(https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/Screenshot%202025-07-29%20091815.png?raw=true)
 
 ---
 
