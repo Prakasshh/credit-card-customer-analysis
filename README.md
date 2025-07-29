@@ -1,21 +1,19 @@
 # credit-card-customer-analysis
 Power BI dashboard with SQL-backed analysis of credit card customer transactions and trends.
 
-## 📊 Credit Card Customer Analysis
-
 ### 🔍 Overview
 
 This Power BI dashboard provides deep insights into credit card customer behaviors using real transactional data. It helps the bank understand customer trends, spending patterns, age-wise distribution, and more.
 
 ---
 
-### 📸 Dashboard Preview
+📸 Dashboard Preview
 
-##CREDIT CARD CUSTOMER SUMMARY
+CREDIT CARD CUSTOMER SUMMARY
 
 ![Dashboard Screenshot](https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/CC%20Cust.%20Suammry.png?raw=true)
 
-##CREDIT CARD TRANSACTION SUMMARY
+CREDIT CARD TRANSACTION SUMMARY
 
 ![Dashboard Screenshot](https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/CC%20Transaction%20Summary.png?raw=true)
 
@@ -34,32 +32,7 @@ This Power BI dashboard provides deep insights into credit card customer behavio
 
 ---
 
-### 📁 Dataset Information
 
-* **Source**: Provided by bank (confidential)
-* **Fields Include**:
-
-  * Customer ID, Gender, Age, Age Group
-  * Date of transaction (2022)
-  * Order Status: Delivered, Return, Refund, Cancel
-  * Purchase Channel: Amazon, Flipkart, Myntra, Meesho, Ajio, Nailly
-  * Product Category & Size (e.g., Kurta, Top, S, M)
-  * Product Amount, Quantity, Currency (INR)
-  * Shipping City & State
-  * Weekly and Monthly trends
-
----
-
-### 📌 Key Insights
-
-* Total revenue and quantity trends by **channel** and **category**
-* **Age group** wise contribution to revenue
-* **Top performing states** and cities
-* Weekly sales trends & current week revenue tracking
-* **Cancellation/Refund** analysis
-* Gender-wise product performance
-
----
 
 
 ### 🧠 Learnings
