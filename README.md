@@ -35,11 +35,13 @@ CREDIT CARD TRANSACTION SUMMARY
 
 
 
-### 🧠 Learnings
+### 🧠 Steps
 
-* Connected and imported real-time data from SQL to Power BI
-* Cleaned and shaped the data using SQL + Power Query
-* Built dynamic visualizations for C-level decision making
-* Practiced DAX logic for week-based revenue tracking
+*	Developed a MySQL database and imported 10,000+ records from CSV files.
+*	Executed complex SQL queries utilizing functions like ROUND, MAX, MIN, and COUNT for data analysis.
+*	Connected SQL database to Power BI and imported datasets for dashboard creation.
+*	Cleaned and transformed data using Power Query Editor, ensuring data consistency and accuracy.
+*	Used DAX formulas for week-wise revenue analysis and performance.
+*	Created interactive dashboards to provide actionable insights for C-level decision-making.
 
 
