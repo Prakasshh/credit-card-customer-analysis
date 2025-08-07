@@ -22,7 +22,7 @@ CREDIT CARD TRANSACTION SUMMARY
 
 ### 🗃️ Data Source & Tools Used
 
-* **🛢️ Data Storage**: PostgreSQL (SQL database)
+* **🛢️ Data Storage**: MySQL (SQL database)
 * **🔗 Data Connection**: Power BI connected directly to SQL
 * **⚙️ Data Cleaning & Transformation**:
 
